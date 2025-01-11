@@ -1,12 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=100&pause=1000&color=18b8d0&center=true&vCenter=true&width=2000&height=200&lines=HELLO+%F0%9F%91%8B+!+;I+AM+ADITYA+BHARDWAJ+%F0%9F%92%BB;MERN+STACK+DEVELOPER;HACKATHON+ENTHUSIAST)](https://git.io/typing-svg)
 
-![](https://github.com/vansh1505/vansh1505/blob/main/github%20readme%20profile.gif)
 
 <h1 align="center">A 2nd Btech CSE student passionate in development</h1>
 
-
-<h3 align="center">A 2nd Btech CSE student passionate in development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtitan360&label=Profile%20views&color=0e75b6&style=flat" alt="techtitan360" /> </p>
 
