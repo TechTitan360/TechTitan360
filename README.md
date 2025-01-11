@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Bhardwaj</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <h3 align="center">A 2nd Btech CSE student passionate in development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtitan360&label=Profile%20views&color=0e75b6&style=flat" alt="techtitan360" /> </p>
