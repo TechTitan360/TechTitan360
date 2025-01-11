@@ -1,6 +1,7 @@
-[![Typing animation](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
-<h1 align="center">Aditya Bhardwaj</h1>
+<h1 align="center">Aditya Bhardwaj</h1> [![Typing animation](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
+<h1 align="center">A 2nd Btech CSE student passionate in development</h1>
 
 
 <h3 align="center">A 2nd Btech CSE student passionate in development</h3>
