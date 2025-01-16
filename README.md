@@ -7,70 +7,22 @@
 <br clear="both">
 
 <h3 align="left">🚀 About Me</h3>
-
-###
-
-<br clear="both">
-
 <h6 align="left">🖥️ Web Development Enthusiast</h6>
-
-###
-
-<br clear="both">
-
 <h6 align="left">🎨 UI/UX Designer with a knack for symmetry and intuitive user experiences.</h6>
-
-###
-
-<br clear="both">
-
 <h6 align="left">💡 Currently working on exciting projects like Tech Council website</h6>
-
-###
 
 <br clear="both">
 
 <h3 align="left">💼 Areas of Expertise</h3>
-
-###
-
-<br clear="both">
-
 <h6 align="left">🌐 Frontend Development: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js</h6>
-
-###
-
-<br clear="both">
-
 <h6 align="left">🛠️ Tools & Technologies: Git, GitHub, GSAP, Framer Motion</h6>
-
-###
-
-<br clear="both">
-
 <h6 align="left">🎯 Special Interests: Building intuitive UIs, animations, and collaborative tools.</h6>
-
-###
 
 <br clear="both">
 
 <h3 align="left">📚 Currently Exploring</h3>
-
-###
-
-<br clear="both">
-
 <h6 align="left">📂 Learning Git & GitHub for better project collaboration.</h6>
-
-###
-
-<br clear="both">
-
 <h6 align="left">📱 Planning to dive into mobile app development soon.</h6>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TechTitan360&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
