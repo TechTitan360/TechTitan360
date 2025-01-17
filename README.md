@@ -86,7 +86,7 @@
 
 <img align="right" height="165" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4azcwY3MzM21haGo0aWdlODMyZ2ZsNm9uY2g5cnBhMDVwNWdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
 
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/TechTitan360/TechTitan360/output/snake.svg" alt="Snake animation" />
 
