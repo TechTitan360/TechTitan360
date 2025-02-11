@@ -1,26 +1,41 @@
 <br clear="both">
 
-<h1 align="center">Hey👋!  My name is Aditya Bhardwaj</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=800&color=36BCF7&center=true&vCenter=true&width=650&lines=Hey👋!+My+name+is+Aditya+Bhardwaj" />
+</h1>
 
-###
+---
 
 <br clear="both">
 
-<h3 align="left">🚀 About Me</h3>
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=36BCF7&center=false&vCenter=false&width=300&height=50&lines=🚀+About+Me" />
+</h3>
+
 <h6 align="left">🖥️ Web Development Enthusiast</h6>
 <h6 align="left">🎨 UI/UX Designer with a knack for symmetry and intuitive user experiences.</h6>
 <h6 align="left">💡 Currently working on exciting projects like Tech Council website</h6>
 
+---
+
 <br clear="both">
 
-<h3 align="left">💼 Areas of Expertise</h3>
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=FF5733&center=false&vCenter=false&width=800&height=50&lines=💼+Areas+of+Expertise" />
+</h3>
+
 <h6 align="left">🌐 Frontend Development: HTML, CSS, Tailwind CSS, JavaScript, React, Next.js</h6>
 <h6 align="left">🛠️ Tools & Technologies: Git, GitHub, GSAP, Framer Motion</h6>
 <h6 align="left">🎯 Special Interests: Building intuitive UIs, animations, and collaborative tools.</h6>
 
+---
+
 <br clear="both">
 
-<h3 align="left">📚 Currently Exploring</h3>
+<h3 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=9B59B6&center=false&vCenter=false&width=800&height=50&lines=📚+Currently+Exploring" />
+</h3>
+
 <h6 align="left">📂 Learning Git & GitHub for better project collaboration.</h6>
 <h6 align="left">📱 Planning to dive into mobile app development soon.</h6>
 
