@@ -96,10 +96,11 @@
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
 </a>
   
-<a href="[https://www.instagram.com/aditya.19_10/](https://www.linkedin.com/in/aditya-bhardwaj-997120289/)" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-bhardwaj-997120289/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 </a>
+
 ###
 
 <img align="right" height="165" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4azcwY3MzM21haGo0aWdlODMyZ2ZsNm9uY2g5cnBhMDVwNWdyMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
